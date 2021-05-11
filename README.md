@@ -1,2 +1,2 @@
 # bdd-practicas
-Practicas de MER y ER 
+Practicas de MER y DER 
